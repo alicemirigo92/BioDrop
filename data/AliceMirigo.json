@@ -1,0 +1,17 @@
+{
+  "name": "Alice Mirigo",
+  "bio": "Transitioned from an economist to a **Remote Work Enthusiast**. Passionate about exploring new places, an avid swimmer, and a dedicated Peloton enthusiast."
+  "links": [
+    {
+      "name": "Follow me on linkedin",
+      "url": "https://www.linkedin.com/in/alice-mirigo/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/alicemirigo92",
+      "icon": "FaGithub"
+    }
+  ]
+}
+
